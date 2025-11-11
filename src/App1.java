@@ -2,7 +2,7 @@
 public class App1 {
 
 	public static void main(String[] args) {
-		System.out.println("ecipse1 eclipse-17 커밋");
+		System.out.println("ecipse1 eclipse-18 커밋");
 
 	}
 
